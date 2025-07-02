@@ -55,6 +55,8 @@ Detect and respond to simulated threats using real-world tools
 
 Understand how attackers exploit common vulnerabilities
 
+Video of Lab Setup Available
+
 📺 Coming Soon
 I’ll be sharing walkthrough videos and tutorials on:
 
